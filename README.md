@@ -46,7 +46,4 @@ It aims to provide **a lightweight, free, and private parental control tool** po
   - `mss`
   - `pywin32` (for Windows users)
 
-Install them with:
 
-```bash
-pip install -r requirements.txt
